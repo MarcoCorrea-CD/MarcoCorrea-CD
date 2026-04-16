@@ -15,12 +15,12 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por resolve
 ### 🛠️ Tecnologias e Ferramentas
 
 **Foco Principal (Back-End & Dados):**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="45" height="45" alt="Java" title="Java" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="45" height="45" alt="Python" title="Python" />
+<img align="center" alt="Java" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"> <img align="center" alt="PostgreSQL" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"> <img align="center" alt="Python" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 
-<br>
+<br><br>
 
 **Conhecimentos Acadêmicos & Outras Stacks:**<br>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" title="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript" title="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" title="HTML5" />
+<img align="center" alt="Node.js" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg"> <img align="center" alt="TypeScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg"> <img align="center" alt="JavaScript" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"> <img align="center" alt="HTML5" height="45" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg">
 
 ---
 
