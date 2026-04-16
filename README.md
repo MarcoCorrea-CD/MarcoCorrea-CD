@@ -14,15 +14,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por resolve
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Foco Principal (Back-End & Dados):**
 <p align="left">
   <img src="./icons/java-original-wordmark.svg" alt="Java" width="40" height="40" style="margin-right: 10px;" />
   <img src="./icons/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
   <img src="./icons/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;" />
-</p>
-
-**Conhecimentos Acadêmicos & Outras Stacks:**
-<p align="left">
   <img src="./icons/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
   <img src="./icons/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
   <img src="./icons/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
