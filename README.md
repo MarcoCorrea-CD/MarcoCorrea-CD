@@ -16,17 +16,17 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por resolve
 
 **Foco Principal (Back-End & Dados):**
 <p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="./icons/java-original-wordmark.svg" alt="Java" width="40" height="40" style="margin-right: 10px;" />
+  <img src="./icons/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="margin-right: 10px;" />
+  <img src="./icons/python-original.svg" alt="Python" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 **Conhecimentos Acadêmicos & Outras Stacks:**
 <p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="./icons/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin-right: 10px;" />
+  <img src="./icons/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="./icons/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right: 10px;" />
+  <img src="./icons/html5-original.svg" alt="HTML5" width="40" height="40" style="margin-right: 10px;" />
 </p>
 
 ---
@@ -35,10 +35,10 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por resolve
 
 <p align="left">
   <a href="https://www.linkedin.com/in/marcoantoniolc/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="./icons/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;">
   </a>
   <a href="mailto:contato.marcocorrea@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="./icons/images.png" alt="Email" width="40" height="40" style="margin-right: 10px;">
   </a>
 </p>
 
