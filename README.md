@@ -47,6 +47,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por resolve
 ### 📊 Minhas Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcoCorrea-CD&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCorrea-CD&layout=compact&theme=dracula" width="48%" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MarcoCorrea-CD&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcoCorrea-CD&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
