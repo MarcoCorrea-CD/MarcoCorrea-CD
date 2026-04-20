@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong>Estudante de Análise e Desenvolvimento de Sistemas | Apaixonado por Arquitetura de Software</strong>
+  <strong>Estudante de Análise e Desenvolvimento de Sistemas | Focado em Engenharia de Software</strong>
 </p>
 
 <p align="center">
